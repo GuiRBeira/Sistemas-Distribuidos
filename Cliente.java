@@ -1,3 +1,6 @@
+// Alunos: Cristian Andre Sanches RA: 1940724
+//        Guilherme Ricardo Beira RA: 2270080
+
 import java.io.DataInputStream;
 import java.io.DataOutputStream;
 import java.io.IOException;
