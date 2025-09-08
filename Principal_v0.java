@@ -1,3 +1,6 @@
+// Alunos: Cristian Andre Sanches RA: 1940724
+//        Guilherme Ricardo Beira RA: 2270080
+
 import java.io.IOException;
 import java.nio.file.Files;
 import java.nio.file.Path;
@@ -82,4 +85,5 @@ public class Principal_v0 {
             e.printStackTrace();
         }
     }
+
 }
